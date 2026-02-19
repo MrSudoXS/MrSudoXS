@@ -16,8 +16,8 @@ and develop <strong>bots & automation scripts</strong> using <strong>JavaScript 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
 <!-- Tech & Tools -->
-### 🛠 Tech & Tools
-<div align="center">
+<h1> 🛠 Tech & Tools</h1>
+<div >
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="border-radius:12px; margin:4px;" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="border-radius:12px; margin:4px;" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius:12px; margin:4px;" />
@@ -41,7 +41,7 @@ and develop <strong>bots & automation scripts</strong> using <strong>JavaScript 
 
 <!-- Contact Me -->
 ### 📫 Contact Me
-<div align="center">
+<div align="left">
 <a href="https://t.me/yourtelegram" style="text-decoration:none">
 <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius:12px;"/>
 </a>
