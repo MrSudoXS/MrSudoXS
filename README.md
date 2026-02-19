@@ -1,7 +1,11 @@
 <div align="left">
 
 <!-- Profile Image -->
-<img src="https://i.pinimg.com/736x/db/0d/a9/db0da914f94c5709dab2a01a73076c58.jpg" width="100٪" style="border-radius:50%;" />
+<!-- Full Width Eye-Catching Header Image -->
+<img src="https://i.pinimg.com/736x/40/3b/f6/403bf6839935f5481be9d05ba17e8eca.jpg" 
+     alt="MrSudoX Header" 
+     style="width:100%; max-width:100%; border-radius:0; filter: brightness(1.2) contrast(1.3);" />
+
 <h1>👋 Hi, I'm MrSudoX</h1>
 <p>I'm always looking to <strong>level up my skills</strong> and work on interesting projects. 🚀</p>
 
