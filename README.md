@@ -2,8 +2,8 @@
 
 <!-- Profile Image -->
 <img src="https://your-image-link.com/avatar.png" width="150" style="border-radius:50%;" />
-<h1>MrSudoX</h1>
-<p>Flutter & Dart Developer | JS & Python Bot Creator</p>
+<h1>👋 Hi, Im MrSudoX</h1>
+<p>I'm always looking to **level up my skills** and work on interesting projects. 🚀</p>
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
@@ -13,7 +13,6 @@ I create **mobile & cross-platform apps** with **Flutter & Dart**,
 design web interfaces with **HTML, CSS & Tailwind**,  
 and develop **bots & automation scripts** using **JavaScript & Python**.  
 
-I'm always looking to **level up my skills** and work on interesting projects. 🚀
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
@@ -35,9 +34,7 @@ I'm always looking to **level up my skills** and work on interesting projects. �
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
-<div align="center">
-![MrSudoX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSudoXS&show_icons=true&theme=radical)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MrSudoXS=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
