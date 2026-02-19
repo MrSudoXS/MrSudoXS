@@ -34,7 +34,7 @@ and develop <strong>bots & automation scripts</strong> using <strong>JavaScript 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <div align="center">
-![MrSudoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudoXS&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSudoXS&show_icons=true&theme=tokyonight)
 </div>
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
