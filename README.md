@@ -33,8 +33,7 @@ and develop **bots & automation scripts** using **JavaScript & Python**.
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
 <!-- GitHub Stats -->
-### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MrSudoXS=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![MrSudoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudoXS)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
