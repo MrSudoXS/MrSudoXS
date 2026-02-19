@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <!-- Profile Image -->
 <img src="https://your-image-link.com/avatar.png" width="150" style="border-radius:50%;" />
