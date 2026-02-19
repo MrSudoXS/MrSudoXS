@@ -17,7 +17,7 @@ and develop <strong>bots & automation scripts</strong> using <strong>JavaScript 
 
 <!-- Tech & Tools -->
 ### 🛠 Tech & Tools
-<div align="left">
+<div align="center">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,7 +34,7 @@ and develop <strong>bots & automation scripts</strong> using <strong>JavaScript 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <div align="center">
-  [![MrSudoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudoXS&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![MrSudoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudoXS&show_icons=true&theme=radical&count_private=true)
 </div>
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
