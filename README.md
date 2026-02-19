@@ -2,23 +2,22 @@
 
 <!-- Profile Image -->
 <img src="https://your-image-link.com/avatar.png" width="150" style="border-radius:50%;" />
-<h1>👋 Hi, Im MrSudoX</h1>
-<p>I'm always looking to **level up my skills** and work on interesting projects. 🚀</p>
+<h1>👋 Hi, I'm MrSudoX</h1>
+<p>I'm always looking to <strong>level up my skills</strong> and work on interesting projects. 🚀</p>
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
 <!-- About Me -->
 ### 💻 About Me
-I create **mobile & cross-platform apps** with **Flutter & Dart**,  
-design web interfaces with **HTML, CSS & Tailwind**,  
-and develop **bots & automation scripts** using **JavaScript & Python**.  
-
+I create <strong>mobile & cross-platform apps</strong> with <strong>Flutter & Dart</strong>,  
+design web interfaces with <strong>HTML, CSS & Tailwind</strong>,  
+and develop <strong>bots & automation scripts</strong> using <strong>JavaScript & Python</strong>.  
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
 <!-- Tech & Tools -->
 ### 🛠 Tech & Tools
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,14 +32,18 @@ and develop **bots & automation scripts** using **JavaScript & Python**.
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
 <!-- GitHub Stats -->
-[![MrSudoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudoXS)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+<div align="center">
+  [![MrSudoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSudoXS&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
 
 <!-- Contact Me -->
 ### 📫 Contact Me
 <div align="center">
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
-</div>
-
+<a href="https://t.me/yourtelegram" style="text-decoration:none">
+<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<p style="margin-top:5px;">Shoot me a message anytime!</p>
 </div>
