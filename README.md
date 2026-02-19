@@ -1,7 +1,7 @@
 <div align="left">
 
 <!-- Profile Image -->
-<img src="https://i.pinimg.com/1200x/80/f4/29/80f4297787ceb89111962a3d51363277.jpg" width="150" style="border-radius:50%;" />
+<img src="https://i.pinimg.com/736x/db/0d/a9/db0da914f94c5709dab2a01a73076c58.jpg" width="100٪" style="border-radius:50%;" />
 <h1>👋 Hi, I'm MrSudoX</h1>
 <p>I'm always looking to <strong>level up my skills</strong> and work on interesting projects. 🚀</p>
 
