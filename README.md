@@ -18,15 +18,15 @@ and develop <strong>bots & automation scripts</strong> using <strong>JavaScript 
 <!-- Tech & Tools -->
 ### 🛠 Tech & Tools
 <div align="center">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/GIMP-6B6B6B?style=for-the-badge&logo=gimp&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="border-radius:12px; margin:4px;" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="border-radius:12px; margin:4px;" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius:12px; margin:4px;" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:12px; margin:4px;" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius:12px; margin:4px;" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="border-radius:12px; margin:4px;" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius:12px; margin:4px;" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="border-radius:12px; margin:4px;" />
+<img src="https://img.shields.io/badge/GIMP-6B6B6B?style=for-the-badge&logo=gimp&logoColor=white" style="border-radius:12px; margin:4px;" />
 </div>
 
 <hr style="width:50%; border:1px solid #ccc; margin: 20px auto;" />
@@ -43,7 +43,9 @@ and develop <strong>bots & automation scripts</strong> using <strong>JavaScript 
 ### 📫 Contact Me
 <div align="center">
 <a href="https://t.me/yourtelegram" style="text-decoration:none">
-<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius:12px;"/>
 </a>
 <p style="margin-top:5px;">Shoot me a message anytime!</p>
+</div>
+
 </div>
